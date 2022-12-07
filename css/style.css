@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+body { margin-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; text-align:center;}
+.headbj{ background-image:url(../img/index_04.gif); background-position:center;}
+.navbj{ background-image:url(../img/home_03.gif); background-position:center;}
+.productsbj{ background-color:#e8e8e8; }
+.bottombj{ background-image:url(../img/bottombj.gif); background-position:center; font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:2.5ex; color:#999; text-decoration:none;}
+.navigation {font-family:Arial, Helvetica, sans-serif; font-size:14px; color: #FFFFFF; text-decoration:none; line-height:2.5ex;}
+.navigation1 {font-family:Arial, Helvetica, sans-serif; font-size:12px; color: #FFFFFF; text-decoration:none; line-height:2.5ex;}
+.navgation_font{ font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#CCC; text-decoration:none; line-height:3ex; }
+.content_font{ font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#CCC; text-decoration:none; line-height:3ex; }
+.navgation_font a hover{ font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#FF0; text-decoration:none; line-height:3ex;}
+.navgation_index{ font-family:Arial, Helvetica, sans-serif; font-size:10px; color:#333; text-decoration:none; line-height:3ex;}
+.navgation_index a hover{ font-family:Arial, Helvetica, sans-serif; font-size:10px; color:#930; text-decoration:none; line-height:3ex;}
+.cc{ background-image:url(../img/bj_08.gif); background-position:center;}
+.biaoti{ font-family:Arial, Helvetica, sans-serif; font-size:22px; line-height:2.5ex; text-decoration:none; color: #000;}
+.text{ font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:2.5ex; text-decoration:none; color:#333;}
