@@ -15,3 +15,10 @@ body { margin-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px;
 .cc{ background-image:url(../img/bj_08.gif); background-position:center;}
 .biaoti{ font-family:Arial, Helvetica, sans-serif; font-size:22px; line-height:2.5ex; text-decoration:none; color: #000;}
 .text{ font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:2.5ex; text-decoration:none; color:#333;}
+.recommond_img{
+  display: inline-block;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 204px;
+  height:204px;
+}
